@@ -273,6 +273,14 @@ const Weather: React.FC = () => {
           Back to Top
         </a>
       </div>
+      <a
+        href="https://www.flaticon.com/free-icons/weather-app"
+        title="weather app icons"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Weather app icons created by Freepik - Flaticon
+      </a>
     </div>
   );
 };
