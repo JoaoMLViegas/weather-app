@@ -10,7 +10,7 @@ A simple weather app built using React and Bootstrap. Allows users to fetch and 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/JoaoMLViegas/weather-app.git
 2. Install dependencies:
    ```bash
    npm install
